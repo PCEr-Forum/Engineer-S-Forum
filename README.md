@@ -1,38 +1,29 @@
 ## A Digital social platform of Engineering Excellence
 
 
-You can use the [editor on GitHub](https://github.com/pcef/Engineer-s-Forum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SCOPE OF OPERATION 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Interested to contribute in the development of civic, social, environmental , educational, professional, cultural aspects of the Industrial Town Pimpri-Chinchwad and its adjoining area
 
-```markdown
-Syntax highlighted code block
+- Create a platform to interact, socialise, help the Engineer community  through finance, medical facility
+Introduce iconic marvels of the city, The Science Park, Auto Cluster, The grade separator, of the PCMC
 
-# Header 1
-## Header 2
-### Header 3
+- To make the city future ready, most livable region of the world
 
-- Bulleted
-- List
+-To create funds through CSR for self sustaining operation of the forum
 
-1. Numbered
-2. List
+-To gather technical professionals for the assimilation, dissemination , development , introduction , implementation, of knowledge, skills, expertise, professional skills, plans, schemes, related to technology, science of any use, application, development , redevelopment.  
 
-**Bold** and _Italic_ and `Code` text
+-The forum would Endeavour to improve, develop, add, create, new civic amenities, utilities, facilities, programs, schemes in all areas required today tomorrow and in the envisioned future for At least 50 years of global evolving standard by contributing, ideas, plans, schemes, information , technology, etc constantly & continuously 
 
-[Link](url) and ![Image](src)
-```
+- Result oriented, practical approach to solve citizen’s problem 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Collabrate with other departments like Gardening, social forestry for tree plantation which are more oxygen exhaling,  strong rooted trees.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pcef/Engineer-s-Forum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Create strategy to fight COVID-19 like pandemic with innovative social awareness drive 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+

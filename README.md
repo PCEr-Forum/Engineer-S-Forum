@@ -25,5 +25,4 @@ Introduce iconic marvels of the city, The Science Park, Auto Cluster, The grade 
 - Create strategy to fight COVID-19 like pandemic with innovative social awareness drive 
 
 ### Support or Contact
-
-
+Satish Kulkarni : smk2664@gmail.com 

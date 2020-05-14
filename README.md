@@ -8,7 +8,8 @@
 - Interested to contribute in the development of civic, social, environmental , educational, professional, cultural aspects of the Industrial Town Pimpri-Chinchwad and its adjoining area
 
 - Create a platform to interact, socialise, help the Engineer community  through finance, medical facility
-Introduce iconic marvels of the city, The Science Park, Auto Cluster, The grade separator, of the PCMC
+
+- Introduce iconic marvels of the city, The Science Park, Auto Cluster, The grade separator, of the PCMC
 
 - To make the city future ready, most livable region of the world
 

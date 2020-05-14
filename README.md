@@ -1,4 +1,4 @@
-## A Digital social platform of Engineering Excellence
+## Social platform of Engineering Excellence
 
 
 
